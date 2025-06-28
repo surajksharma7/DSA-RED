@@ -27,5 +27,11 @@ int main() {
     cout << ch << endl;
     cout << weight << endl;
     cout << isMale << endl;
+
+    {
+        // aise decleare kar sakte hai 
+        int age = 16;
+        cout << age << endl;
+    }
     return 0;
 }
